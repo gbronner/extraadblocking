@@ -1,11 +1,13 @@
-! Title: Fuck Fuckadblock
+
+[Adblock Plus 2.0]
+! Title: Extra ABP Blcoking
 ! Description: Filters for blocking pop-ups and anti-adblock bypass
 ! Author: Bogachenko Vyacheslav
 ! Expires: 3 days
-! Homepage: https://github.com/bogachenko/fuckfuckadblock
-! Licence: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/LICENSE.md
-! RAW: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
-! CDN: https://github.com/bogachenko/fuckfuckadblock/wiki/Mirror-lists
+! Homepage: https://github.com/gbronner/extraadblocking
+! Licence: https://raw.githubusercontent.com/gbronner/extraadblocking/master/LICENSE.md
+! RAW: https://raw.githubusercontent.com/gbronner/extraadblocking/master/blocklist_abp.txt
+! CDN: https://github.com/gbronner/extraadblocking/wiki/Mirror-lists
 
 ###AdBlockDialog
 ###ab--notification-ribbon
